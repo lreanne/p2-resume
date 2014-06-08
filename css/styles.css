@@ -1,0 +1,56 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+
+body {
+	background: url("../img/grey_wash_wall_@2x.png") no-repeat center center;
+	background-size: cover;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 8em;
+	color:white;
+	text-align: center;
+}
+
+
+.amp {
+font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
+font-style: italic;
+font-weight: normal;
+}
+
+h2 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 3.5em;
+	color:paleturquoise;
+	text-align: center;
+	margin-top: -2em;
+}
+
+.links {
+	color:white;
+	font-size:1.5em;
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: paleturquoise;
+}
+
+}
+
+.list {
+	color:white;
+	margin-top: -1em;
+	font-size:1em;
+
+}
+
+h3 {
+	color:salmon;
+	font-size: 1.5em;
+}
